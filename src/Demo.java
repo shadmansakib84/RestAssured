@@ -28,7 +28,6 @@ public class Demo {
 		
 		
 		driver.findElement(By.xpath("//*[@id=\"recharge_step_2\"]/form/div[1]/div[4]/label")).click();
-		//driver.findElement(By.xpath("//*[@id=\"recharge_step_2\"]/form/div[3]/button")).click();
 		driver.findElement(By.xpath("//body/div[@id='container']/div[1]/div[1]/form[1]/div[1]/div[3]/section[2]/form[1]/div[2]/div[2]/button[1]")).click();
 		
 		
